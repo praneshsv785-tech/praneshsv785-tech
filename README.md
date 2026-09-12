@@ -6,7 +6,7 @@
 
 *Turning ideas into code, one project at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/praneshsv)
 
 </div>
 
@@ -30,10 +30,10 @@ I'm a B.Tech Information Technology student passionate about **software developm
 `C` `C++` `Python` `Java`
 
 ### Web
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS`
 
 ### Tools
-`Git` `GitHub` `VS Code`
+`VS Code` `Microsoft word`
 
 ---
 
