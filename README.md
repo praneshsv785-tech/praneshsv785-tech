@@ -17,10 +17,7 @@ I'm currently learning, building projects, and exploring the world of software d
 - Python
 - Java
 - HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
+
 
 ### 🚀 Goals
 
@@ -31,7 +28,7 @@ I'm currently learning, building projects, and exploring the world of software d
 
 ### 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_LINK
+- LinkedIn: www.linkedin.com/in/praneshsv
 
 ---
 
